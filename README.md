@@ -1,1 +1,1 @@
-# Code-Companion-AI
+# Gen-AI-With-Deep-Seek-R1
